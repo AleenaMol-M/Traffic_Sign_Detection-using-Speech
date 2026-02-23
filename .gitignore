@@ -1,0 +1,9 @@
+venv/
+cnn_dataset/
+model_cache/
+VECTOR_DB/
+__pycache__/
+*.h5
+*.jpg
+*.png
+*.pdf
